@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://hashemothman.github.com/Real-Estate-Agency",
   "scripts": {
     "dev": "vite ./src",
     "build": "vite build ./src",
